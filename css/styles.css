@@ -317,3 +317,6 @@ h3 {
     align-items: center;
   }
 }
+.mail {
+  display: block;
+}
